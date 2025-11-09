@@ -44,5 +44,5 @@ To verify API testing:
 ---
 
 ## Developed by
-**Vasu Tyagi**  
+**Shivam Sharma**  
 _Assignment for EZ Labs_
